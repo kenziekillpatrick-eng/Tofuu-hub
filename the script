@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Testgameak/RYNtraxHub/refs/heads/main/ui_redz_blue_glass_hacker.lua"))()
+local library = oadstring(game:HttpGet("https://raw.githubusercontent.com/Testgameak/RYNtraxHub/refs/heads/main/ui_redz_blue_glass_hacker.lua"))()
 local Window = Fluent:CreateWindow({
     Title = "tofuu hub | Blox Fruits",
     SubTitle = "V1",

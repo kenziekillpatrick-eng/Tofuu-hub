@@ -1,0 +1,6 @@
+local Update = (loadstring(Game:HttpGet("https://raw.githubusercontent.com/giahuy2511-coder/Lol/refs/heads/main/ff785f7a6a5ea5f7.lua.txt")))();
+local Library = Update:Window({
+	SubTitle = "Blox Fruits",
+	Size = UDim2.new(0, 470, 0, 320),
+	TabWidth = 140
+});
